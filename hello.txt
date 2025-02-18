@@ -8,3 +8,4 @@ this written on branch three.
 
 
 This will be committed, and will become the detached head.
+Playing with the detached head (forgive me).
