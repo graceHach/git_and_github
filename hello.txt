@@ -3,3 +3,5 @@ Hi!
 This is my file!
 It contains some text that I wrote.
 This is some text that will be committed from branch two
+This is some more text,
+this written on branch three.
