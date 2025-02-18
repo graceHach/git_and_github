@@ -9,3 +9,6 @@ this written on branch three.
 
 This will be committed, and will become the detached head.
 Playing with the detached head (forgive me).
+
+I'm just continuing to mess with the same file because it seems more likely to cause conflict.
+And conflict is the spice of life.
