@@ -1,4 +1,4 @@
 Hi!
 
 This is my file!
-
+It contains some text that I wrote.
